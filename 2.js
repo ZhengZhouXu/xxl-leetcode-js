@@ -1,4 +1,9 @@
 /**
+ * 链表的使用，注意指针指向
+ * 可以先生成一个 root节点，最后返回 root.next
+ */
+
+/**
  * Definition for singly-linked list.
  * function ListNode(val) {
  *     this.val = val;
